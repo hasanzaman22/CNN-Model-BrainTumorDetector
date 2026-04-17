@@ -1,5 +1,5 @@
 # CNN-Model-BrainTumorDetector
-Brain Tumor Detection Model with Transfer Learning Method - 98% Accuracy [EfficientNet-B0]<br />
+Brain Tumor Detection Model with Transfer Learning Method [EfficientNet-B0]<br />
 ---------------------------------------------------
 Results: <br />
 Model's Best Test Loss: 0.4001 <br />
